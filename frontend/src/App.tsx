@@ -7,7 +7,7 @@ export default function App() {
   const backend = "http://localhost:3001"
 
   return (
-    <div>
-    </div>
+    <>
+    </>
   );
 }
